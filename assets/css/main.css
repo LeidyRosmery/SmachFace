@@ -1,0 +1,10 @@
+.img-coders{
+  width: 300px;
+  height: 250px;
+  border-radius: 8%;
+  display: none;
+}
+
+.active {
+  display: inline-block;
+}

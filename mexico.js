@@ -1,15 +1,16 @@
+
 var mexico = [{
-              imagen: "Alma Patricia Jimenez.JPG",
+              image: "Alma Patricia Jimenez.JPG",
               name: "Alma"
             },{
               image: "Ana Maria Barbosa.JPG",
               name: "Ana"
             },{
               image: "Analy Miranda.JPG",
-              name: "Analy"  
+              name: "Analy"
             },{
               image: "Areli Rodriguez.JPG",
-              name: "Areli"  
+              name: "Areli"
             },{
               image: "Beatriz Quesadas.JPG",
               name: "Beatriz"
@@ -101,3 +102,5 @@ var mexico = [{
               image: "Zazil Aurora Martinez.JPG",
               name: "Zazil"
             }];
+
+            console.log(mexico[0]);

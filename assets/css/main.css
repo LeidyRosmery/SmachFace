@@ -1,10 +1,8 @@
-.img-coders{
-  width: 300px;
+.face{
+  width: 350px;
   height: 250px;
-  border-radius: 8%;
-  display: none;
 }
-
-.active {
-  display: inline-block;
+.coder{
+  width: 300px;
+  height: 200px;
 }
